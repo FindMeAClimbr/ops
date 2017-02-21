@@ -12,3 +12,4 @@ aws_secret_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 After doing that, you can run `terraform apply` to build the
 infrastructure.
+
